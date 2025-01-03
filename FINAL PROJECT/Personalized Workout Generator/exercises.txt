@@ -1,0 +1,35 @@
+Cardio,Jumping Jacks,Easy,30 seconds
+Cardio,Running,Medium,5 minutes
+Strength,Push-ups,Easy,10 reps
+Strength,Squats,Medium,15 reps
+Flexibility,Stretching,Easy,5 minutes
+Cardio,Biking,Medium,20 minutes
+Cardio,Jump Rope,Hard,1 minute
+Strength,Plank,Medium,1 minute
+Strength,Dumbbell Rows,Hard,12 reps
+Strength,Lunges,Medium,12 reps per leg
+Flexibility,Yoga,Easy,15 minutes
+Flexibility,Forward Fold,Easy,5 minutes
+Flexibility,Cat-Cow Stretch,Easy,3 minutes
+Cardio,Mountain Climbers,Hard,45 seconds
+Cardio,High Knees,Medium,1 minute
+Strength,Bench Press,Hard,10 reps
+Strength,Deadlift,Hard,8 reps
+Strength,Bicep Curls,Easy,12 reps
+Strength,Tricep Dips,Medium,10 reps
+Strength,Wall Sit,Medium,45 seconds
+Flexibility,Child's Pose,Easy,5 minutes
+Flexibility,Seated Spinal Twist,Easy,3 minutes
+Flexibility,Butterfly Stretch,Easy,4 minutes
+Cardio,Stair Climbing,Medium,10 minutes
+Cardio,Swimming,Medium,20 minutes
+Strength,Side Plank,Medium,30 seconds per side
+Strength,Pull-Ups,Hard,8 reps
+Flexibility,Bridge Pose,Easy,3 minutes
+Flexibility,Side Stretch,Easy,2 minutes per side
+Cardio,Rowing Machine,Hard,15 minutes
+Cardio,Shadow Boxing,Medium,3 minutes
+Strength,Leg Press,Hard,10 reps
+Strength,Overhead Press,Hard,8 reps
+Flexibility,Pigeon Pose,Easy,5 minutes
+Flexibility,Chest Opener,Easy,3 minutes
